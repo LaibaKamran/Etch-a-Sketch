@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    width: 6.25%;
+    padding-bottom: 6.25%;
+    background-color: gray;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
